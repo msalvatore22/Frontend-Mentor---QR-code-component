@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/msalvatore22/Frontend-Mentor---QR-code-component)
-- Live Site URL: [Add live site URL here](https://msalvatore22.github.io/Frontend-Mentor---QR-code-component/m)
+- Live Site URL: [Add live site URL here](https://msalvatore22.github.io/Frontend-Mentor---QR-code-component/)
 
 ## My process
 Analyzed the design images and made inital design decisions. Decided flexbox and simple CSS styling would do the trick to replicate the design.
